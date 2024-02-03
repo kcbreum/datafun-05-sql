@@ -39,7 +39,6 @@ def create_database():
         print("Error creating the database:", e)
 
 # Create tables for databases
-
 def insert_data_from_csv():
     try:
         author_data_path = Path("data", "authors.csv")
@@ -52,9 +51,6 @@ def insert_data_from_csv():
             print("Data inserted successfully.")
     except (sqlite3.Error, pd.errors.EmptyDataError, FileNotFoundError) as e:
         print("Error inserting data:", e)
-
-
-
 
 
 

@@ -1,12 +1,6 @@
 # datafun-05-sql
 
-<<<<<<< HEAD
-# datafun-04-jupyter
-
-Professional analytics project using Git, Python, venv, pip, VS Code, and Markdown to create an initial data story in Jupyter Notebook. This project utilizes popular libraries for data analytics, such as pandas, matplotlib, and seaborn.
-=======
 This project integrates Python and SQL. It demonstrates the skills needed to interact with a SQL database, including creating and managing a database, building a schema, performing various SQL operations, including queries with joins, filters, and aggregations, and logging to document the process. 
->>>>>>> c8e41e3ef522c51561dae617bc2670dac0a491f4
 
 ## Create Project Virtual Environment
 
@@ -46,8 +40,4 @@ py -m pip freeze > requirements.txt
 
 This project was built to the following specification:
 
-<<<<<<< HEAD
 - [datafun-03-spec](https://github.com/denisecase/datafun-05-spec)
-=======
-- [datafun-03-spec](https://github.com/denisecase/datafun-05-spec)
->>>>>>> c8e41e3ef522c51561dae617bc2670dac0a491f4

@@ -37,6 +37,13 @@ py -m pip install -r requirements.txt
 py -m pip freeze > requirements.txt
 ```
 
+## Project Highlights
+[SQL Operations](https://github.com/kcbreum/datafun-05-sql/tree/main/sql)
+[Data Used](https://github.com/kcbreum/datafun-05-sql/tree/main/data)
+[Python Used](https://github.com/kcbreum/datafun-05-sql/blob/main/book_manager.py)
+[Python and SQL Integration](https://github.com/kcbreum/datafun-05-sql/blob/main/breum_sql.py)
+
+
 ## Specification
 
 This project was built to the following specification:

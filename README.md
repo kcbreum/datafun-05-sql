@@ -32,6 +32,7 @@ git push origin main
 ```shell
 py -m pip install pyarrow
 py -m pip install pandas
+py -m pip install requests
 py -m pip install -r requirements.txt
 py -m pip freeze > requirements.txt
 ```
